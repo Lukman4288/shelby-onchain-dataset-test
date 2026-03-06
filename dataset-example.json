@@ -1,0 +1,14 @@
+[
+  {
+    "protocol": "Uniswap",
+    "chain": "Ethereum",
+    "volume_usd": 1250000,
+    "timestamp": "2026-03-05T10:12:00Z"
+  },
+  {
+    "protocol": "Aave",
+    "chain": "Arbitrum",
+    "tvl_usd": 540000000,
+    "timestamp": "2026-03-05T10:15:00Z"
+  }
+]
